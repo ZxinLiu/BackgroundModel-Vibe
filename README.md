@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Requirement](#requirement)
+- [Requirements](#requirements)
 - [Usage](#usage)
     - [Run](#run)
 - [Maintainers](#maintainers)
